@@ -1,0 +1,9 @@
+
+
+# data
+*.txt
+*.pyc
+*.hdf5
+
+__pycache__
+
